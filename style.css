@@ -38,8 +38,8 @@ nav {
 #menu-icon {
 
 	display: hidden;
-	width: 65px;
-	height: 65px;
+	width: 40px;
+	height: 40px;
 	background: #4C8FEC url(../img/niEBEbMXT.png) center;
 
 }
@@ -47,7 +47,7 @@ nav {
 a:hover#menu-icon {
 
 	background-color: #444;
-	border-radius: 4px 4px 0 0;
+	border-radius: 8px 8px 0 0;
 
 }
 
