@@ -51,13 +51,13 @@ a:hover#menu-icon {
 
 }
 
-ul #navi {
+ul.navi {
 
 	list-style: none;
 
 }
 
-.navi li {
+ul.navi li {
 
 	display: inline-block;
 	float: left;
