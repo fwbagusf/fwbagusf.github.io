@@ -26,13 +26,13 @@ a:hover#menu-icon {
 
 }
 
-ul #navi {
+ul {
 
 	list-style: none;
 
 }
 
-.navi li {
+li {
 
 	display: inline-block;
 	float: left;
