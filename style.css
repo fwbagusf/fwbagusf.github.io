@@ -32,14 +32,18 @@ ul #navi {
 
 }
 
-#navi li {
+.navi li {
 
 	display: inline-block;
 	float: left;
 	padding: 10px
 
 }
+.current {
 
+	color: #2262AD;
+
+}
 a {
   color: inherit;
   font-style: normal;
