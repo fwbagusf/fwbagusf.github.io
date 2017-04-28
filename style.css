@@ -32,7 +32,7 @@ ul #navi {
 
 }
 
-ul #navi .li {
+#navi li {
 
 	display: inline-block;
 	float: left;
