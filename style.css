@@ -3,30 +3,43 @@ body {
   margin: 0;
   overflow-x: hidden;
 }
-/* The navigation bar */
-.navbar {
-    overflow: hidden;
-    background-color: rgb(241, 241, 241);
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
-    font-size: 17px;
-    box-sizing: border-box;
-}
+nav {
 
-/* Links inside the navbar */
-.navbar a {
-    float: left;
-    display: block;
-    color: #274456;
-    text-align: center;
-    padding-bottom: 9px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 10px;
-    text-decoration: none;
+	float: right;
+	padding: 20px;	
 
 }
+
+#menu-icon {
+
+	display: hidden;
+	width: 40px;
+	height: 40px;
+	background: #4C8FEC url(../img/menu-icon.png) center;
+
+}
+
+a:hover#menu-icon {
+
+	background-color: #444;
+	border-radius: 4px 4px 0 0;
+
+}
+
+ul #navi {
+
+	list-style: none;
+
+}
+
+ul #navi .li {
+
+	display: inline-block;
+	float: left;
+	padding: 10px
+
+}
+
 a {
   color: inherit;
   font-style: normal;
