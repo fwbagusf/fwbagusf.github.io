@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Simple Web Server",
+    "owner": "Febrianto",
+    "description": "Simple web server flow to identify possible threats"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "hld",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
